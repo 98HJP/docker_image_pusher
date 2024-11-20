@@ -1,1 +1,1 @@
-elasticsearch:7.17.23
+georchestra/geoserver:24.0.2
