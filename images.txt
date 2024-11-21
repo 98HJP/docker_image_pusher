@@ -1,1 +1,1 @@
-ubuntu:plucky
+docker.osgeo.org/geoserver:2.26.x
