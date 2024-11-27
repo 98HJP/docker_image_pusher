@@ -1,1 +1,2 @@
-docker.osgeo.org/geoserver:2.26.x
+osgeo/gdal:ubuntu-full-3.6.3,
+wzxkk/gdal-java
