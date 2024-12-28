@@ -1,2 +1,2 @@
-xuxueli/xxl-job-admin:2.4.2
+xuxueli/xxl-job-admin:2.4.2,
 apache/seata-server
