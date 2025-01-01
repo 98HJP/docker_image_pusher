@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.2.0
+rabbitmq:3.13.7-management
