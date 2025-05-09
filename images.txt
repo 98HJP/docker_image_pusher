@@ -1,1 +1,1 @@
-continuumio/anaconda3
+continuumio/miniconda
