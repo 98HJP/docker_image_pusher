@@ -1,1 +1,1 @@
-continuumio/miniconda
+nginx:1.27.5
