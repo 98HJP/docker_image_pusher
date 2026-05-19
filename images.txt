@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.6.14
+ubuntu:22.04
